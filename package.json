@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cron": "^1.8.2",
+    "fs": "0.0.1-security",
     "puppeteer": "^10.1.0"
   },
   "devDependencies": {},
